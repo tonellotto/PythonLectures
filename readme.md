@@ -9,5 +9,3 @@ $ ipython notebook
 ```
 
 This will open a new page in your browser with a list of the available notebooks.
-
-## Online read-only version
