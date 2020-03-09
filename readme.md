@@ -5,7 +5,7 @@ A set of lectures on computing with Python, using [Jupyter](https://jupyter.org)
 To open these notebooks in Jupyter, download the files to a directory on your computer and from that directory run:
 
 ```shell
-$ ipython notebook
+$ jupyter notebook
 ```
 
 This will open a new page in your browser with a list of the available notebooks.
