@@ -21,6 +21,11 @@ This will open a new page in your browser with a list of the available notebooks
 * [0. Introduction to Python](https://mybinder.org/v2/gh/tonellotto/PythonLectures/master?filepath=0.%20Introduction%20to%20Python.ipynb)
 * [1. Basic Python](https://mybinder.org/v2/gh/tonellotto/PythonLectures/master?filepath=1.%20Basic%20Python.ipynb)
 
+# Exercises
+
+[Here](other_exercises.md) you will find some programming exercises with their solution collected from different sources on the Web.
+Solutions have not been exahustively tested. Feel free to report any correction.
+
 # License
 
 This work is licensed under a [Creative Commons Attribution 3.0 Unported License.](http://creativecommons.org/licenses/by/3.0/)
