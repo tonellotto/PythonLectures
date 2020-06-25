@@ -15,11 +15,19 @@ This will open a new page in your browser with a list of the available notebooks
 
 * [0. Introduction to Python](https://nbviewer.jupyter.org/github/tonellotto/PythonLectures/blob/master/0.%20Introduction%20to%20Python.ipynb)
 * [1. Basic Python](https://nbviewer.jupyter.org/github/tonellotto/PythonLectures/blob/master/1.%20Basic%20Python.ipynb)
+* [2. NumPy](https://nbviewer.jupyter.org/github/tonellotto/PythonLectures/blob/master/2.%20NumPy%20Tutorial.ipynb)
+* [3. MatPlotLib](https://nbviewer.jupyter.org/github/tonellotto/PythonLectures/blob/master/3.%20Matplotlib%20Tutorial.ipynb)
+* [4. Pandas](https://nbviewer.jupyter.org/github/tonellotto/PythonLectures/blob/master/4.%20Pandas%20Tutorial.ipynb)
+* [5. Scikit-Learn](https://nbviewer.jupyter.org/github/tonellotto/PythonLectures/blob/master/5.%20ScikitLearn%20Tutorial.ipynb)
 
 # Online executable versions
 
 * [0. Introduction to Python](https://mybinder.org/v2/gh/tonellotto/PythonLectures/master?filepath=0.%20Introduction%20to%20Python.ipynb)
 * [1. Basic Python](https://mybinder.org/v2/gh/tonellotto/PythonLectures/master?filepath=1.%20Basic%20Python.ipynb)
+* [2. NumPy](https://mybinder.org/v2/gh/tonellotto/PythonLectures/master?filepath=2.%20NumPy%20Tutorial.ipynb)
+* [3. MatPlotLib](https://mybinder.org/v2/gh/tonellotto/PythonLectures/master?filepath=3.%20Matplotlib%20Tutorial.ipynb)
+* [4. Pandas](https://mybinder.org/v2/gh/tonellotto/PythonLectures/master?filepath=4.%20Pandas%20Tutorial.ipynb)
+* [5. Scikit-Learn](https://mybinder.org/v2/gh/tonellotto/PythonLectures/master?filepath=5.%20ScikitLearn%20Tutorial.ipynb)
 
 # Exercises
 
